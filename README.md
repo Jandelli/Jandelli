@@ -7,7 +7,7 @@ I'm a passionate Full Stack Developer with a strong background in network techno
 ## 🚀 My Tech Stack
 
 - **Frontend:** HTML/CSS, JavaScript, React
-- **Backend:** Python, Node.js
+- **Backend:** Python, C#, Node.js
 - **Database:** MySQL, MongoDB
 - **Tools:** Git, VS Code, Docker
 
