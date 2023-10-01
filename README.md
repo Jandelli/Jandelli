@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Jandelli.svg?style=social&label=Follow)](https://github.com/Jandelli)
 
-I'm a passionate Full Stack Developer with a strong background in network technology. My interests span a wide range of topics, from AI and Machine Learning to cybersecurity and open-source contributions.
+I'm a passionate Back End Developer with a strong background in network technology. My interests span a wide range of topics, from AI and Machine Learning to cybersecurity and open-source contributions.
 
 ## 🚀 My Tech Stack
 
